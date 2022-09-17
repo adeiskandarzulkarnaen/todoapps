@@ -1,0 +1,20 @@
+
+
+/* =======================[ bookObject ]==========================*/
+const book = {
+    id: "string",
+    task: "string",
+    timestamp: "string",
+    isCompleted: "boolean"
+};
+
+/* =======================[ bookStructure ]=========================*/
+<div class="item shadow">
+    <div class="inner">
+        <h2>Tugas Kalkulus</h2>
+        <p>2021-05-01</p>
+    </div>
+</div>
+
+
+  
